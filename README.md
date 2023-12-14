@@ -6,6 +6,4 @@ Just a tailwind project, simple web design.
 
 Check design on the URL
 
-```bash
-https://poschuler.github.io/clipboard-website-design/
-```
+[https://poschuler.github.io/clipboard-website-design/](https://poschuler.github.io/clipboard-website-design/)
