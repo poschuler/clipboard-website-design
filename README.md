@@ -7,3 +7,5 @@ Just a tailwind project, simple web design.
 Check design on the URL
 
 [https://poschuler.github.io/clipboard-website-design/](https://poschuler.github.io/clipboard-website-design/)
+
+![image](https://poschuler.github.io/clipboard-website-design/images/design.png)
